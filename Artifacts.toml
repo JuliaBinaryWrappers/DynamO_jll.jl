@@ -1,0 +1,124 @@
+[[DynamO]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b4ebb308ea8d8a7c3102311aa8ee5a6b4909522"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "a739b7d5ccd3920a65f8c2fb718174d27c9cf1b56f428c060f6d5e92059cd735"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[DynamO]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "922762fbed3e88db71f0be3a415268e42754cf7c"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "e3ed61915c726e54dad0c1b488e11abf48b54f6f3b7aec6d35eda5a87b51be85"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[DynamO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cd52710f3b12202599ee20716f2ad00553cbd9bb"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "e92e8993d4f21ae5cb2d81c7330de8ffad7fdabdf9526b7b1fe6611070a89c3c"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[DynamO]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c0fc21772f134d2d2191072a5ff7ae236b86c83"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "5549a84da24d8c9c210cb6dbc3638c49a4573e6c6268e9ef2d67350ba3bbe858"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[DynamO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dca6b10f03966cec89a4d5013aafd6c9ddfcd137"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "19805799da0ee361ab9564e45ba16293870b739591065f1d4aa5a349d3da5a6b"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[DynamO]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "225438753736ad08050cfdd21c20f020bd788dbf"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "81332364358e8f7b49e8f395e500a4a49ca1c4016387a4af5d3d21f53986ea97"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[DynamO]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0570502d90e21a93bfa7731f509eb6841ed34cb2"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "95fb233f6ba427feb694958f2a7f0ddf95a05291b18e4f50318182ef992b3c7e"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.i686-linux-gnu-cxx03.tar.gz"
+[[DynamO]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "324e923b913cf6487b5fc98d2169d3ebd8e283b9"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "0e075ce3fbcdbac42b749e810a72e1693f8108baa07b179e276a307441cd41df"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.i686-linux-gnu-cxx11.tar.gz"
+[[DynamO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "276490208b62222f17bf42dce4f97f97db6ccd16"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "ad129e7666a454a60256a474f156fa635f0c6c5423cc6e440136347c51a02dc8"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[DynamO]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ed9ee56db947d4e300418aa9b9840e5d8ab6a6a"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "46aa1440f8f7a74ce93d9e157fc1b180aad88ce403498897f31e42965dd46804"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[DynamO]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1473af894fcb815095b8f8ae52dd4c286f61d0ae"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "abbb81de84233c6d42fbc84d3f19b103b0949fc4ad55ff7dae8509f677f57408"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[DynamO]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aeb6b2501c0ab7fe38d6ef43a6b40270c752c58c"
+libc = "glibc"
+os = "linux"
+
+    [[DynamO.download]]
+    sha256 = "d5c8254f879e6ae823fdfede10082ab49c957f6a3882995d388c565577e1ac1b"
+    url = "https://github.com/JuliaBinaryWrappers/DynamO_jll.jl/releases/download/DynamO-v1.7.6+0/DynamO.v1.7.6.x86_64-linux-gnu-cxx11.tar.gz"
